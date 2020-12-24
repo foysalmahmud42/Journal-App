@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "403784461824",
+    "firebase_url": "https://journal-7ad51.firebaseio.com",
+    "project_id": "journal-7ad51",
+    "storage_bucket": "journal-7ad51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403784461824:android:0f0578410e10e6f67d72e5",
+        "android_client_info": {
+          "package_name": "com.foysal.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403784461824-4g397hf6tvsr2so1jfcs2dt93sspv48e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7frpMFY6prxUkgseHBFJept-Dg9F9Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403784461824-4g397hf6tvsr2so1jfcs2dt93sspv48e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
